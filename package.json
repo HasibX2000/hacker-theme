@@ -1,9 +1,9 @@
 {
-  "name": "dark-hacker-theme",
-  "displayName": "Dark Hacker Theme",
+  "name": "dark-hacker-theme-by-hasibur-r",
+  "displayName": "Hacker X",
   "description": "A Pure Dark Theme For Hacker",
-  "version": "0.0.1",
-  "publisher": "HasiburR",
+  "version": "3.0.0",
+  "publisher": "hasiburr",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -13,20 +13,25 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
   "keywords": [
     "vscode",
     "hacker",
-    "green"
+    "green",
+    "hacker-x",
+    "hacker x",
+    "hacker theme"
   ],
-  "activationEvents": [
-    "onLanguage:markdown"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkonMHasib/hacker-theme.git"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Dark Hacker Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Hacker-Theme-color-theme.json.json"
+        "path": "./themes/Dark-Hacker-Theme-color-theme.json"
       }
     ]
   }
