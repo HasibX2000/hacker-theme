@@ -2,7 +2,7 @@
   "name": "dark-hacker-theme-by-hasibur-r",
   "displayName": "Hacker X",
   "description": "A Pure Dark Theme For Hacker",
-  "version": "4.0.6",
+  "version": "4.0.9",
   "publisher": "hasiburr",
   "engines": {
     "vscode": "^1.66.0"
@@ -37,6 +37,11 @@
         "label": "Red Hacker Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Red-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Green Hacker Theme Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green-Hacker-Theme-color-theme-soft.json"
       }
     ]
   }
