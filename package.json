@@ -2,7 +2,7 @@
   "name": "dark-hacker-theme-by-hasibur-r",
   "displayName": "Hacker X",
   "description": "A Pure Dark Theme For Hacker",
-  "version": "4.0.9",
+  "version": "5.0.0",
   "publisher": "hasiburr",
   "engines": {
     "vscode": "^1.66.0"
@@ -13,7 +13,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/icon.png",
+  "icon": "images/logo.png",
   "keywords": [
     "vscode",
     "hacker",
@@ -42,7 +42,20 @@
         "label": "Green Hacker Theme Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Green-Hacker-Theme-color-theme-soft.json"
+      },
+      {
+        "label": "Terminal Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terminal-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Underdark Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Underdark-Hacker-Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.7.0"
   }
 }

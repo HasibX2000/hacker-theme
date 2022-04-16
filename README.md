@@ -1,5 +1,9 @@
-Hacker X - A Pure Dark Theme For Hacker
+# Hacker X - A Pure Dark Theme For Hacker
 
-Note: This is a hight contrast theme.
+## Don't forget to leave a review
 
-![Demo Picture](https://i.postimg.cc/TPYm80pT/Theme.png)
+![Demo Picture](https://i.postimg.cc/L8dW11Hr/1.png)
+
+![Demo Picture](https://i.postimg.cc/GhTNtQ1F/2.png)
+
+![Demo Picture](https://i.postimg.cc/xj4h9ZBj/3.png)
