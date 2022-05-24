@@ -2,7 +2,7 @@
   "name": "dark-hacker-theme-by-hasibur-r",
   "displayName": "Hacker X",
   "description": "A Pure Dark Theme For Hacker",
-  "version": "5.0.0",
+  "version": "6.0.1",
   "publisher": "hasiburr",
   "engines": {
     "vscode": "^1.66.0"
@@ -20,38 +20,54 @@
     "green",
     "hacker-x",
     "hacker x",
-    "hacker theme"
+    "hacker theme",
+    "Stack Lerner",
+    "stack",
+    "lerner",
+    "Hasibur",
+    "R",
+    "color-theme",
+    "theme",
+    "Dark hacker theme",
+    "customization",
+    "color",
+    "dark"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkonMHasib/hacker-theme.git"
+    "url": "git+https://github.com/HasiburR000/hacker-theme"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Green Hacker Theme",
+        "label": "Hacker X - Green Hacker Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Green-Hacker-Theme-color-theme.json"
       },
       {
-        "label": "Red Hacker Theme",
+        "label": "Hacker X - Red Hacker Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Red-Hacker-Theme-color-theme.json"
       },
       {
-        "label": "Green Hacker Theme Soft",
+        "label": "Hacker X - Green Hacker Theme Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Green-Hacker-Theme-color-theme-soft.json"
       },
       {
-        "label": "Terminal Hacker Theme",
+        "label": "Hacker X - Terminal Hacker Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Terminal-Hacker-Theme-color-theme.json"
       },
       {
-        "label": "Underdark Hacker Theme",
+        "label": "Hacker X - Underdark Hacker Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Underdark-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Emerald Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Emerald-Hacker-Theme-color-theme.json"
       }
     ]
   },
