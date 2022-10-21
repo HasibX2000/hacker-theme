@@ -1,8 +1,8 @@
 {
   "name": "dark-hacker-theme-by-hasibur-r",
   "displayName": "Hacker X",
-  "description": "A Pure Dark Theme For Hacker",
-  "version": "6.0.1",
+  "description": "A Pure Dark Theme For Hackers",
+  "version": "7.0.0",
   "publisher": "hasiburr",
   "engines": {
     "vscode": "^1.66.0"
@@ -68,6 +68,86 @@
         "label": "Hacker X - Emerald Hacker Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Emerald-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Belch Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Belch-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Blue Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Dark Code Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Code-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Dev Special Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dev-Special-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Electrical Violate Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Electrical-Violate-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Enhanced Material Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Enhanced-Material-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Hyped Down Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hyped-Down-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Intelli J Light Flutter Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Intelli-J-Light-Flutter-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Into The Unknown Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Into-The-Unknown-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Joyful Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Joyful-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Kermit Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kermit-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Modern UI Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modern-UI-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Organge Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orange-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Orion Black Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orion-Black-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Red-X Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red-X-Hacker-Theme-color-theme.json"
+      },
+      {
+        "label": "Hacker X - Windows Hacker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Windows-Hacker-Theme-color-theme.json"
       }
     ]
   },
@@ -75,3 +155,5 @@
     "vsce": "^2.7.0"
   }
 }
+
+
