@@ -1,5 +1,7 @@
 # Hacker X - A Pure Dark Theme For Hacker
 
+# 22 Different Theme Packs
+
 ## By Hasibur R
 
 ## Don't forget to leave a review
